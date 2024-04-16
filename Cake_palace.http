@@ -1,0 +1,6 @@
+@Cake_palace_HostAddress = http://localhost:5248
+
+GET {{Cake_palace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
